@@ -34,9 +34,7 @@ namespace SkuPromotionEngine
         public static void Main(string[] args)
         {
             Order1();
-            Console.ReadLine();
             Order2();
-            Console.ReadLine();
             Order3();
             Console.ReadLine();
         }
