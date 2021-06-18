@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="284ceffe-3474-4c44-a48f-dd473e1811ec" name="DELL@DESKTOP-K7JGNSE 2021-06-18 02:01:11" runUser="DESKTOP-K7JGNSE\DELL" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="985bb256-4770-464f-b565-4f9977343dac">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment userDeploymentRoot="D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\TestResults" useDefaultDeploymentRoot="false" enabled="false" runDeploymentRoot="DELL_DESKTOP-K7JGNSE 2021-06-18 02_01_11">
+      <DeploymentItem filename="D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\SkuPromotionEngine\bin\Debug\SkuPromotionEngine.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2021-06-18T02:01:11.3009734+05:30" queuing="2021-06-18T02:01:11.5330017+05:30" start="2021-06-18T02:01:11.5403317+05:30" finish="2021-06-18T02:01:11.7567576+05:30" />
+  <ResultSummary outcome="Completed">
+    <Counters total="1" executed="1" passed="1" error="0" failed="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="d:\old laptop\skupromotionengine\skupromotionengine\unittestskupromotionengine\bin\debug\unittestskupromotionengine.dll" id="6ea917ed-0a15-ac5a-3853-26db47abe212">
+      <Execution id="6a2a7b9b-1118-458e-b329-c09791026dbb" />
+      <TestMethod codeBase="D:/old laptop/SkuPromotionEngine/SkuPromotionEngine/UnitTestSkuPromotionEngine/bin/Debug/UnitTestSkuPromotionEngine.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestSkuPromotionEngine.UnitTestSkuPromotionEngline, UnitTestSkuPromotionEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6ea917ed-0a15-ac5a-3853-26db47abe212" executionId="6a2a7b9b-1118-458e-b329-c09791026dbb" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="6a2a7b9b-1118-458e-b329-c09791026dbb" testId="6ea917ed-0a15-ac5a-3853-26db47abe212" testName="TestMethod1" computerName="DESKTOP-K7JGNSE" duration="00:00:00.0132346" startTime="2021-06-18T02:01:11.5443255+05:30" endTime="2021-06-18T02:01:11.7477767+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="6a2a7b9b-1118-458e-b329-c09791026dbb">
+      <Output>
+        <StdOut>OrderID: {1} =&gt; Total Cart price: {100.00}</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+</TestRun>

@@ -1,0 +1,5 @@
+D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\SkuPromotionEngine\bin\Debug\SkuPromotionEngine.exe
+D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\SkuPromotionEngine\bin\Debug\SkuPromotionEngine.pdb
+D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\SkuPromotionEngine\obj\x86\Debug\SkuPromotionEngine.exe
+D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\SkuPromotionEngine\obj\x86\Debug\SkuPromotionEngine.pdb
+D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\SkuPromotionEngine\obj\x86\Debug\SkuPromotionEngine.csprojResolveAssemblyReference.cache

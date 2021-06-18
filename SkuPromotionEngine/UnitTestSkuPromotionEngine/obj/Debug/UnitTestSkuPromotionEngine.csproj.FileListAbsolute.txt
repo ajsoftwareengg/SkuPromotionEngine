@@ -1,0 +1,7 @@
+D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\UnitTestSkuPromotionEngine\obj\Debug\UnitTestSkuPromotionEngine.csprojResolveAssemblyReference.cache
+D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\UnitTestSkuPromotionEngine\bin\Debug\UnitTestSkuPromotionEngine.dll
+D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\UnitTestSkuPromotionEngine\bin\Debug\UnitTestSkuPromotionEngine.pdb
+D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\UnitTestSkuPromotionEngine\bin\Debug\SkuPromotionEngine.exe
+D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\UnitTestSkuPromotionEngine\bin\Debug\SkuPromotionEngine.pdb
+D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\UnitTestSkuPromotionEngine\obj\Debug\UnitTestSkuPromotionEngine.dll
+D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\UnitTestSkuPromotionEngine\obj\Debug\UnitTestSkuPromotionEngine.pdb

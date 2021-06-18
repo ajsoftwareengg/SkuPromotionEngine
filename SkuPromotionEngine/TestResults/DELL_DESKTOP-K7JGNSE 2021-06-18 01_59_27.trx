@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestRun id="f2ee56a3-c5c5-42af-987f-9738e3a6f4ad" name="DELL@DESKTOP-K7JGNSE 2021-06-18 01:59:27" runUser="DESKTOP-K7JGNSE\DELL" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestSettings name="Local" id="985bb256-4770-464f-b565-4f9977343dac">
+    <Description>These are default test settings for a local test run.</Description>
+    <Deployment enabled="false" runDeploymentRoot="DELL_DESKTOP-K7JGNSE 2021-06-18 01_59_27">
+      <DeploymentItem filename="D:\old laptop\SkuPromotionEngine\SkuPromotionEngine\SkuPromotionEngine\bin\Debug\SkuPromotionEngine.exe" />
+    </Deployment>
+    <Execution>
+      <TestTypeSpecific />
+      <AgentRule name="Execution Agents">
+      </AgentRule>
+    </Execution>
+  </TestSettings>
+  <Times creation="2021-06-18T01:59:27.5238768+05:30" queuing="2021-06-18T01:59:30.3758568+05:30" start="2021-06-18T01:59:30.4329923+05:30" finish="2021-06-18T01:59:56.4661719+05:30" />
+  <ResultSummary outcome="Error">
+    <Counters total="1" executed="1" error="0" failed="0" timeout="0" aborted="1" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" passed="0" completed="0" inProgress="0" pending="0" />
+    <RunInfos>
+      <RunInfo computerName="DESKTOP-K7JGNSE" outcome="Error" timestamp="2021-06-18T01:59:56.4661719+05:30">
+        <Text>Test host process exited unexpectedly.</Text>
+      </RunInfo>
+    </RunInfos>
+  </ResultSummary>
+  <TestDefinitions>
+    <UnitTest name="TestMethod1" storage="d:\old laptop\skupromotionengine\skupromotionengine\unittestskupromotionengine\bin\debug\unittestskupromotionengine.dll" id="6ea917ed-0a15-ac5a-3853-26db47abe212">
+      <Execution id="ba73afb8-a426-4c5f-a6a9-0918f84ed49a" />
+      <TestMethod codeBase="D:/old laptop/SkuPromotionEngine/SkuPromotionEngine/UnitTestSkuPromotionEngine/bin/Debug/UnitTestSkuPromotionEngine.DLL" adapterTypeName="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestAdapter, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.Adapter, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" className="UnitTestSkuPromotionEngine.UnitTestSkuPromotionEngline, UnitTestSkuPromotionEngine, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" name="TestMethod1" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <TestEntries>
+    <TestEntry testId="6ea917ed-0a15-ac5a-3853-26db47abe212" executionId="ba73afb8-a426-4c5f-a6a9-0918f84ed49a" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <Results>
+    <UnitTestResult executionId="ba73afb8-a426-4c5f-a6a9-0918f84ed49a" testId="6ea917ed-0a15-ac5a-3853-26db47abe212" testName="TestMethod1" computerName="DESKTOP-K7JGNSE" duration="00:00:25.9985628" startTime="2021-06-18T01:59:30.4676091+05:30" endTime="2021-06-18T01:59:56.4661719+05:30" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Aborted" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="ba73afb8-a426-4c5f-a6a9-0918f84ed49a">
+    </UnitTestResult>
+  </Results>
+</TestRun>
